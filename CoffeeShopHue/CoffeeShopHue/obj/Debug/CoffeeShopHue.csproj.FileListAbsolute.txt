@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\GitHub\Huan-CoffeeShop\CoffeeShopHue\CoffeeShopHue\bin\Debug\CoffeeShopHue.exe.config
+C:\Users\Admin\Documents\GitHub\Huan-CoffeeShop\CoffeeShopHue\CoffeeShopHue\bin\Debug\CoffeeShopHue.exe
+C:\Users\Admin\Documents\GitHub\Huan-CoffeeShop\CoffeeShopHue\CoffeeShopHue\bin\Debug\CoffeeShopHue.pdb
+C:\Users\Admin\Documents\GitHub\Huan-CoffeeShop\CoffeeShopHue\CoffeeShopHue\obj\Debug\CoffeeShopHue.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Huan-CoffeeShop\CoffeeShopHue\CoffeeShopHue\obj\Debug\CoffeeShopHue.FrmLogin.resources
+C:\Users\Admin\Documents\GitHub\Huan-CoffeeShop\CoffeeShopHue\CoffeeShopHue\obj\Debug\CoffeeShopHue.FrmSystem.resources
+C:\Users\Admin\Documents\GitHub\Huan-CoffeeShop\CoffeeShopHue\CoffeeShopHue\obj\Debug\CoffeeShopHue.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\Huan-CoffeeShop\CoffeeShopHue\CoffeeShopHue\obj\Debug\CoffeeShopHue.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\Huan-CoffeeShop\CoffeeShopHue\CoffeeShopHue\obj\Debug\CoffeeShopHue.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Huan-CoffeeShop\CoffeeShopHue\CoffeeShopHue\obj\Debug\CoffeeShopHue.exe
+C:\Users\Admin\Documents\GitHub\Huan-CoffeeShop\CoffeeShopHue\CoffeeShopHue\obj\Debug\CoffeeShopHue.pdb
+C:\Users\Admin\Documents\GitHub\Huan-CoffeeShop\CoffeeShopHue\CoffeeShopHue\obj\Debug\CoffeeShopHue.frmAccount.resources
+C:\Users\Admin\Documents\GitHub\Huan-CoffeeShop\CoffeeShopHue\CoffeeShopHue\obj\Debug\CoffeeShopHue.frmSystemManager.resources

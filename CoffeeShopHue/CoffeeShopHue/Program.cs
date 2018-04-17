@@ -16,7 +16,7 @@ namespace CoffeeShopHue
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmSystem());
+            Application.Run(new FrmLogin());
         }
     }
 }
